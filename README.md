@@ -1,7 +1,7 @@
-Medical Appointments No-Shows
+## Medical Appointments No-Shows
 
 
-Overview
+## Overview
 In this project, I aim to investigate the factors that affect the medical scheduled appointments attendance in Brazil. The Dataset that I'm trying to explore and investigate includes some features about patients plus whether the patient shows up to the appointments or not.The Data analysis in this project is an attempt to highlight some Trends that may or may not cause patients to attend.
 
 You can find the original problem and the Dataset from here : https://www.kaggle.com/joniarroba/noshowappointments
@@ -9,13 +9,13 @@ You can find the original problem and the Dataset from here : https://www.kaggle
 This project was completed as part of Udacity's Data Analyst Nanodegree certification.
 
 
-Details
+## Details
 I have worked with the dataset and fixed a few problems like, removing wrong data, fixed the datatype of the data, adding new features based on existing data. I have also investigated most of the patient features in the dataset and made a few observations comparing them to the (no_show) feature. As this was only an exploratory analysis, many potential correlations may remain uncovered. The data should be investigated further with more advanced statistical analysis to potentially reveal new insights and correlations.
 
 For more details see analysis documentation Jupyter Notebook or HTML.
 
 
-Findings
+## Findings
 The most important findings are:
 
 
@@ -39,13 +39,13 @@ The bar chart of the patient's feature confirms that the number of patients that
 The average the waiting period is 10, where the min is 0 days, and 75% is 15 days while the max is 179 days.
 
 
-Statistical Analysis Scope
+## Statistical Analysis Scope
 Data Wrangling
 Exploratory Data Analysis (EDA)
 Examination of central tendency and spread
 Data visualizations
 
 
-Tools
+## Tools
 Python, libraries: numpy, pandas, matplotlib, seaborn
 Jupyter Notebook 
