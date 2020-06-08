@@ -39,11 +39,10 @@ The most important findings are:
 -   The average the waiting period is 10, where the min is 0 days, and 75% is 15 days while the max is 179 days.
 
 
-## Statistical Analysis Scope
-Data Wrangling
-Exploratory Data Analysis (EDA)
-Examination of central tendency and spread
-Data visualizations
+## Analysis Scope
+- Data Wrangling
+- Exploratory Data Analysis (EDA)
+- Data visualizations
 
 
 ## Tools
