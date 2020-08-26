@@ -1,12 +1,12 @@
 ## Medical Appointments No-Shows
-
+> Bashayer Alshehri (3 May, 2020)
 
 ## Overview
 In this project, I aim to investigate the factors that affect the medical scheduled appointments attendance in Brazil. The Dataset that I'm trying to explore and investigate includes some features about patients plus whether the patient shows up to the appointments or not.The Data analysis in this project is an attempt to highlight some Trends that may or may not cause patients to attend.
 
 You can find the original problem and the Dataset from here : https://www.kaggle.com/joniarroba/noshowappointments
 
-This project was completed as part of Udacity's Data Analyst Nanodegree certification.
+> This project was completed as part of Udacity's Data Analyst Nanodegree certification.
 
 
 ## Details
